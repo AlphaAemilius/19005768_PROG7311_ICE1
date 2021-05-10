@@ -1,0 +1,83 @@
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\appsettings.json
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.exe
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.deps.json
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.runtimeconfig.json
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.runtimeconfig.dev.json
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.dll
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\ref\MemeSynthesis.dll
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.pdb
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.Views.dll
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.Views.pdb
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.csprojAssemblyReference.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.AssemblyInfoInputs.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.AssemblyInfo.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.csproj.CoreCompileInputs.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorAssemblyInfo.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorAssemblyInfo.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\staticwebassets\MemeSynthesis.StaticWebAssets.Manifest.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\staticwebassets\MemeSynthesis.StaticWebAssets.xml
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\scopedcss\bundle\MemeSynthesis.styles.css
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.TagHelpers.input.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.TagHelpers.output.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorCoreGenerate.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorTargetAssemblyInfo.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorTargetAssemblyInfo.cs
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.Views.pdb
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.dll
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\ref\MemeSynthesis.dll
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.pdb
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.genruntimeconfig.cache
+C:\Users\19005768\Documents\Workbench\PROG\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.csproj.CopyComplete
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.pdb
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.csprojAssemblyReference.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.AssemblyInfoInputs.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.AssemblyInfo.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.csproj.CoreCompileInputs.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorAssemblyInfo.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorAssemblyInfo.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\staticwebassets\MemeSynthesis.StaticWebAssets.Manifest.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\staticwebassets\MemeSynthesis.StaticWebAssets.xml
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\scopedcss\bundle\MemeSynthesis.styles.css
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.TagHelpers.input.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.TagHelpers.output.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorCoreGenerate.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Memes.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorTargetAssemblyInfo.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.RazorTargetAssemblyInfo.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.dll
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\ref\MemeSynthesis.dll
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\appsettings.json
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.exe
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.deps.json
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.runtimeconfig.json
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.runtimeconfig.dev.json
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.dll
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\ref\MemeSynthesis.dll
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.pdb
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.Views.dll
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\bin\Debug\net5.0\MemeSynthesis.Views.pdb
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.Views.pdb
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.genruntimeconfig.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.csproj.CopyComplete
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Generate.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Memes-TheComputer.cshtml.g.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs

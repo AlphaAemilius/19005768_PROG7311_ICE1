@@ -1,0 +1,4 @@
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net4.5\MemeSynthesis.csprojAssemblyReference.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net4.5\MemeSynthesis.AssemblyInfoInputs.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net4.5\MemeSynthesis.AssemblyInfo.cs
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net4.5\MemeSynthesis.csproj.CoreCompileInputs.cache

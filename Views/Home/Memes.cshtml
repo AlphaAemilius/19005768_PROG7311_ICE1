@@ -1,0 +1,37 @@
+@using MemeSynthesis.Models
+
+@{
+    ViewData["Title"] = "Memes";
+}
+@model List<MemeSynthesis.Models.Memes>
+
+<h1>Top Trending 100 Memes </h1>
+<p></p>
+
+<table class="table" >
+    <thead>
+        <tr>
+            <th>
+                <h5>Name</h5>
+            </th>
+            <th>
+                <h5>Meme</h5>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="background-color:white">
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td style="background-color:white">
+                   <a asp-asp-controller="Home" asp-action = "Generate" asp-route-id = "@item.id" asp-route-url="@item.url">
+                       <img src="@Html.DisplayFor(modelItem => item.url)" style="width:25em;height:25em" >
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
