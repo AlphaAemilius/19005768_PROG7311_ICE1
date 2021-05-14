@@ -79,5 +79,4 @@ C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debu
 C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.genruntimeconfig.cache
 C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\MemeSynthesis.csproj.CopyComplete
 C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Generate.cshtml.g.cs
-C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Memes-TheComputer.cshtml.g.cs
 C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MemeSynthesis\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs

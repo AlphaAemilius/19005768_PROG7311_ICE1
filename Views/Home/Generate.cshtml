@@ -2,15 +2,34 @@
     ViewBag.Title = "Generate Meme";
 }
 
-<img src="@ViewBag.url" width="200px">
-<br/>
-<form method="post">
-    Caption 1:
-    <input type="text" id="caption1" name="Caption1"/>
-    <br/>
-    Caption 2:
-    <input type="text" id="caption2" name="Caption2"/>
-    <br/>
+<img src="@ViewBag.url" style="width:25em;height:25em">
+
+
+<form method="post" style="margin:auto">
     <input name="id" type="hidden" value="@ViewBag.id"/>
+
+
+    <table>
+            <tr>
+                <td style="text-align:left;">
+                   Caption 1:
+                </td>
+                <td>
+                    <input type="text" id="caption1" name="Caption1" />
+                    <br/>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: left;">
+                    Caption 2:
+                </td>
+                <td>
+                    <input type="text" id= "caption2" name="Caption2"/>
+                    <br/>
+                </td>
+            </tr>
+    </table>
+    <div class="form-group" >
     <input type="submit" text="Generate"/>
+    </div>
 </form>
